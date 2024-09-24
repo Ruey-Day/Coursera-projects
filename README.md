@@ -1,2 +1,3 @@
 # Coursera-projects
-Projects completed for coursera courses assignments
+Projects completed for Coursera course assignments
+Please do not copy any section to complete any Coursera course
